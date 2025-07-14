@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Sherin 👋
 
-<!--
-**sherindas/sherindas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 💻 I'm a software developer passionate about clean code and performance
+- 🧠 Exploring full-stack development, algorithms, and open-source contributions
+- 📫 Connect with me: [LinkedIn](https://linkedin.com/in/yourname) | [Portfolio](https://yourwebsite.com)
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+Java • Python • JavaScript • React • Node.js • MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Projects
+- 🔗 [Project Name](https://github.com/yourrepo) — Short description
+- 🔗 [Another Project](https://github.com/yourrepo) — Short description
+
+## 📊 GitHub Stats
+![Sherin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sherindas&show_icons=true&theme=radical)
